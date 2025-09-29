@@ -1,1 +1,3 @@
-For a full change history, refer to the [CHANGELOG](https://github.com/vuejs/language-tools/blob/master/CHANGELOG.md) on the GitHub site.
+# Change Log
+
+## 1.0.0 (2025-09-29)
