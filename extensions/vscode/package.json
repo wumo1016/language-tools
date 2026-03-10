@@ -1,10 +1,10 @@
 {
 	"private": true,
-	"name": "volar",
-	"version": "3.0.8",
+	"name": "vue-legacy-extension",
+	"version": "1.0.2",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/vuejs/language-tools.git",
+		"url": "https://github.com/wumo1016/language-tools.git",
 		"directory": "extensions/vscode"
 	},
 	"categories": [
@@ -14,10 +14,10 @@
 		"url": "https://github.com/sponsors/johnsoncodehk"
 	},
 	"icon": "icon.png",
-	"displayName": "Vue (Official)",
+	"displayName": "Vue Legacy",
 	"description": "Language Support for Vue",
-	"author": "johnsoncodehk",
-	"publisher": "Vue",
+  "author": "Wu Mo <760478279wyb@gmail.com>",
+	"publisher": "wumo1016",
 	"engines": {
 		"vscode": "^1.88.0"
 	},
@@ -29,7 +29,7 @@
 	"capabilities": {
 		"virtualWorkspaces": {
 			"supported": "limited",
-			"description": "Install https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-web to have IntelliSense for .vue files in Web IDE."
+			"description": "Install https://marketplace.visualstudio.com/items?itemName=wumo1016.vue-legacy-extension to have IntelliSense for .vue files in Web IDE."
 		}
 	},
 	"contributes": {

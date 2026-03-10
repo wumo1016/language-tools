@@ -1,4 +1,6 @@
-# Vue (Official)
+# Vue Legacy
+
+> 克隆自 [Vue (Official)(3.0.8)](https://github.com/vuejs/language-tools/tree/v3.0.8), 支持老的类组件语法以及 vue2 语法
 
 ## Quick Start
 
@@ -6,7 +8,6 @@
 - [Vitesse](https://github.com/antfu/vitesse)
 - [petite](https://github.com/JessicaSachs/petite)
 - [volar-starter](https://github.com/johnsoncodehk/volar-starter) (For bug report and experiment features testing)
-
 
 ## ❤️ Thanks to Our Sponsors
 
