@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "vue-legacy-extension",
+	"name": "vue-legacy-extension-1",
 	"version": "1.0.2",
 	"repository": {
 		"type": "git",
@@ -14,7 +14,7 @@
 		"url": "https://github.com/sponsors/johnsoncodehk"
 	},
 	"icon": "icon.png",
-	"displayName": "Vue Legacy",
+	"displayName": "Vue Legacy Pro",
 	"description": "Language Support for Vue",
   "author": "Wu Mo <760478279wyb@gmail.com>",
 	"publisher": "wumo1016",
